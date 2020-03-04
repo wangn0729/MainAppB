@@ -10,7 +10,7 @@ namespace LibA
     {
         public string Output()
         {
-            return "This is LibA Util and I am joined into MainAppA Now again, Modified by LibA.";
+            return "This is LibA Util and I am joined into MainAppA Now again, Modified by LibA，Modified by MainAppB.";
         }
     }
 }
